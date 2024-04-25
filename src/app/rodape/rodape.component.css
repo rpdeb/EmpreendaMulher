@@ -1,0 +1,10 @@
+.rodape {
+    background-color: #003C84;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed; /* Posição fixa para manter o rodapé no fundo da página */
+    bottom: 0; /* Alinhar o rodapé ao fundo */
+    width: 100%; 
+  }
+  

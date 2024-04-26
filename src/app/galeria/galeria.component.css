@@ -1,0 +1,28 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+  .navbar {
+    top:0;
+    width: 100%;
+    color: #623667;
+    background-color: #ffffff;
+    align-items: center;
+    text-align: center;
+  }
+
+  .titulo-de-pagina{
+    padding: 1%;
+  }
+  
+.page-grid-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:25px;
+    padding: 1% 10%;
+}
